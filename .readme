@@ -1,0 +1,10 @@
+# npx create-react-app my-app --template cra-template-pwa
+# Register service worker and provide a start url
+# Provide a maskable icon {
+                                "src": "logo192.png",
+                                "type": "image/png",
+                                "sizes": "192x192",
+                                "purpose": "any maskable"
+                              }
+# deploy to firebase as it provides https by default
+
